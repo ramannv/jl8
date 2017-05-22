@@ -89,7 +89,6 @@ class OnSwipeTouchListener implements OnTouchListener {
 public class MainActivity extends AppCompatActivity {
     private ImageView imageview;
     private static int i = 1;
-    ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
